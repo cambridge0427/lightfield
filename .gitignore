@@ -1,0 +1,5 @@
+*.o
+*.h5
+*.DS_Store
+*.jpg
+record.txt
